@@ -31,9 +31,20 @@ expo-build:android
 
 Este APK feito em React Native será o do motorista, onde irá capturar a localização do celular para o banco de dados, que enviará para o usuário em intervalos pequenos de tempo.
 
+## Demonstrações
+<div style="display: inline_block" align="center"><br>
+  <center><img align="start" alt="Find Bus Imagem2" height="400" width="190.25" src="https://user-images.githubusercontent.com/121250213/233275780-df866089-08aa-4b00-ad89-fdfb996cd29b.jpeg">
+  <img align="end" alt="Find Bus Imagem1" height="400" width="190.25" src="https://user-images.githubusercontent.com/121250213/233275733-5b4ebc58-444a-479b-856e-5b86608b9c81.jpeg">
+  </center>
+
+
+</div>
+
 ## Tecnologia Utilizada
 <div style="display: inline_block" align="center"><br>
   <center><img align="center" alt="React Native" height="100" width="100" src="https://user-images.githubusercontent.com/121250213/233266357-1dfb0963-40a9-40b7-97cb-47d45d857429.png">
   </center>
 </div>
+
+
 
